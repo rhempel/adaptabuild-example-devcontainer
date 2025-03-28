@@ -26,3 +26,8 @@
 #
 [url "git@github.com:"]
 	insteadOf = "https://github.com/"
+[credential]
+	helper = "!f() { /home/hempelra/.vscode-server/bin/ddc367ed5c8936efe395cffeec279b04ffd7db78/node /tmp/vscode-remote-containers-bfae262f-d5f0-4a89-b170-6270d937b86e.js git-credential-helper $*; }; f"
+[user]
+	name = Ralph Hempel
+	email = rhempel@hempeldesigngroup.com

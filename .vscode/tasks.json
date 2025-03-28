@@ -94,7 +94,7 @@
           "Build STM32F051R8 foo",
           "Build STM32H7A3ZI foo",
           "Build STM32L452RE foo",
-          "Build pico2040 foo",
+//        "Build pico2040 foo",
           "Build nRF52832 foo",
           "Build max32690 foo"
         ],

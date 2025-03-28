@@ -28,6 +28,7 @@
   //
   "runArgs": [
     "--add-host=host.gdb.gateway:host-gateway",
+    "--userns=keep-id", // Your home dirctory has your ID for permissions
   ],
 
   // This is critical to ensure that your host-local username is used to set
